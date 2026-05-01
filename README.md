@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=200&section=header&text=KLOUTS&animation=fadeIn&fontColor=C0C0C0" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=200&section=header&text=KLOUTS&fontSize=70&animation=fadeIn&fontColor=C0C0C0" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=2000&color=C0C0C0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Designer;Crafting+Digital+Currencies;Forging+the+Gamer+Marketplace." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=2000&color=C0C0C0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Building+the+Future+with+Code." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -28,12 +28,8 @@
 
 ---
 
-**Creative Full-Stack & UI/UX Developer**
+**Full Stack Developer**
 
-> *"Success is not a drop of luck, it's a mountain of forged code and sleepless nights."*
+> *"Desenvolvedor apaixonado por tecnologia e resolução de problemas. Sempre aprendendo e compartilhando conhecimento."*
 
-Atualmente liderando o desenvolvimento da **AK Digital**, focado em criar o ecossistema **CatCoins**. Especialista em transformar visões gamer em interfaces funcionais e sistemas escaláveis.
-
-Domínio avançado de **JavaScript**, **TypeScript** e **React**, com forte atuação em design gráfico e arquitetura de marketplaces digitais.
-
-<img align="right" width="220px" src="https://raw.githubusercontent.com/KLOUTZINMODZ/KLOUTZINMODZ/main/cat-mascot.png" alt="Mascote CatCoins"/>
+Focado em criar soluções eficientes e interfaces modernas. Minha jornada é movida pela curiosidade constante e pela vontade de dominar novas ferramentas no ecossistema de desenvolvimento web.
