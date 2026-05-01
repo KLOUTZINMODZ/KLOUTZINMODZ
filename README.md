@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=200&section=header&text=KLOUTS%20%2F%2F%20AK%20DIGITAL&fontSize=60&animation=fadeIn&fontColor=C0C0C0" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=200&section=header&text=KLOUTSfontSize=60&animation=fadeIn&fontColor=C0C0C0" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
