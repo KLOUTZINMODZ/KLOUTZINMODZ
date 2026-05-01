@@ -1,54 +1,39 @@
+<!-- BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=200&section=header&text=KLOUTS%20%2F%2F%20AK%20DIGITAL&fontSize=60&animation=fadeIn&fontColor=C0C0C0" width="100%" alt="banner"/>
+</div>
 
+<!-- TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=2000&color=C0C0C0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Designer;Crafting+Digital+Currencies;Forging+the+Gamer+Marketplace." alt="Typing SVG"/>
+</div>
 
-### ⚡ Um pouco sobre mim
+<br/>
 
-<p align="left">
- <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLOUTZINMODZ&layout=compact&theme=radical&hide_border=true" />
- 
- 🚀 **Desenvolvedor Full Stack** focado em criar experiências digitais incríveis.<br>
- 🎓 Atualmente aprimorando habilidades em arquitetura de sistemas e UI/UX.<br>
- 💡 Apaixonado por transformar ideias complexas em código limpo e funcional.<br>
- 🎮 Entusiasta de design gamer e interfaces interativas.
-</p>
+<!-- CONTACT -->
+<div align="center">
 
-<br>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111?style=flat-square&logo=instagram&logoColor=C0C0C0)](https://www.instagram.com/klouts.sync/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-111?style=flat-square&logo=youtube&logoColor=C0C0C0)](https://www.youtube.com/@KloutsDev)
 
-### 🛠️ Tecnologias e Ferramentas
+</div>
 
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=KLOUTZINMODZ&style=flat-square&color=C0C0C0&label=DATA+SYNCED)
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+**Creative Full-Stack & UI/UX Developer**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KLOUTZINMODZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KLOUTZINMODZ&theme=radical&hide_border=true" />
-</div>
+> *"Success is not a drop of luck, it's a mountain of forged code and sleepless nights."*
 
----
+Atualmente liderando o desenvolvimento da **AK Digital**, focado em criar o ecossistema **CatCoins**. Especialista em transformar visões gamer em interfaces funcionais e sistemas escaláveis.
 
-### 🎨 My Creative Canvas
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KLOUTZINMODZ&theme=react-dark&area=true&hide_border=true" width="100%" />
-</div>
+Domínio avançado de **JavaScript**, **TypeScript** e **React**, com forte atuação em design gráfico e arquitetura de marketplaces digitais.
 
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Layout construído com ❤️ por Gustavo.</sub>
-</div>
+<img align="right" width="220px" src="https://raw.githubusercontent.com/KLOUTZINMODZ/KLOUTZINMODZ/main/cat-mascot.png" alt="Mascote CatCoins"/>
