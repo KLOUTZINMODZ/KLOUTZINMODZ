@@ -1,16 +1,16 @@
-<!-- BANNER -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=200&section=header&text=KLOUTS&fontSize=70&animation=fadeIn&fontColor=C0C0C0" width="100%" alt="banner"/>
+  <img src="https://yt3.googleusercontent.com/s87badZZUy8C9nwWG31D-SJBbMGBGru8sEQZlV5_GZQD_DQ7M29gnGRKPuDXjHrf-wzNKs10=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100%" alt="Klouts Banner"/>
 </div>
 
-<!-- TITLE -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=2000&color=C0C0C0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Building+the+Future+with+Code." alt="Typing SVG"/>
 </div>
 
 <br/>
 
-<!-- CONTACT -->
+
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-111?style=flat-square&logo=instagram&logoColor=C0C0C0)](https://www.instagram.com/klouts.sync/)
