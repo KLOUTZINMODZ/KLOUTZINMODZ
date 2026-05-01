@@ -1,8 +1,6 @@
 # 💫 Sobre Mim
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Olá!%20Eu%20sou%20o%20Gustavo&fontSize=50&animation=fadeIn&fontAlignY=38" />
-</div>
+
 
 <div align="center">
   <a href="https://www.instagram.com/klouts.sync/">
