@@ -56,9 +56,6 @@ Focado em criar soluções eficientes e interfaces modernas. Minha jornada é mo
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KLOUTZINMODZ&show_icons=true&theme=dark&title_color=C0C0C0&icon_color=C0C0C0&text_color=cccccc&bg_color=0d0d0d&border_color=222222&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLOUTZINMODZ&layout=compact&theme=dark&title_color=C0C0C0&text_color=cccccc&bg_color=0d0d0d&border_color=222222"/>
-
 </div>
 
 ---
